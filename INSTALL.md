@@ -6,4 +6,5 @@ Create enviroment and activate enviroment
 Put env as a visible kernel in jupyter
 
 ~$ pip install ipykernel
+
 ~$ python -m ipykernel install --user --name=personal_env
